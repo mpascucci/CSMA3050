@@ -2,9 +2,9 @@
 ![libreoffice_logo](LOGO-LIBRE-OFFICE.webp)
 
 
-[Description](#description)
-[Features](#features)
-[history](#history)
+- [Description](#description)
+- [Features](#features)
+- [history](#history)
 ---
 
 
