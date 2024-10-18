@@ -1,4 +1,5 @@
 # LibreOffice
+This page is an example README written in markdown for my students. The content is taken from [Wikipedia](https://en.wikipedia.org/wiki/LibreOffice)
 ![libreoffice_logo](LOGO-LIBRE-OFFICE.webp)
 
 ## Content
